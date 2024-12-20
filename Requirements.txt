@@ -1,0 +1,5 @@
+TensorFlow
+NumPy
+OpenCV
+Pandas
+scikit-learn
