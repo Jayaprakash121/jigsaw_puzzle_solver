@@ -82,14 +82,9 @@ pip install tensorflow numpy opencv-python pandas scikit-learn
 To run the script, use the following command:
 
 ```bash
-python main.py --dataset_path /path/to/dataset --grid_size 3x3
+python main.py
 ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-Contributions are welcome! Please submit a pull request or open an issue for feedback or suggestions.
 
 ---
 
